@@ -11,52 +11,71 @@ namespace MB02_A3
     {
         private int TempResult { get; set; } = 0;       // interne speicherung?
 
-        public int Addition(int firstParam, int secondParam)
+        public int Addition(params int[] parameters)
         {
-
-            TempResult = firstParam + secondParam;
+            if(parameters.Length == 1)
+            {
+                TempResult += parameters[0];
+            }
+            else if(parameters.Length >= 2)
+            {
+                TempResult = 0;
+                foreach(var parameter in parameters)
+                {
+                    TempResult += parameter;
+                }
+            }
             return TempResult;
         }
 
-        public int Addition(int secondParam)
+        public int Subtraction(params int[] parameters)
         {
-            TempResult += secondParam;
+            if (parameters.Length == 1)
+            {
+                TempResult -= parameters[0];
+            }
+            else if (parameters.Length >= 2)
+            {
+                TempResult = parameters[0] * 2;     // da in der foreach schleife, der erste parameter ebenfalls subtrahiert wird, wird hier mal 2 gerechnet
+                foreach (var parameter in parameters)
+                {
+                    TempResult -= parameter;
+                }
+            }
             return TempResult;
         }
 
-        public int Subtraction(int firstParam, int secondParam)
+        public int Multiplication(params int[] parameters)
         {
-            TempResult = firstParam - secondParam;
+            if (parameters.Length == 1)
+            {
+                TempResult *= parameters[0];
+            }
+            else if (parameters.Length >= 2)
+            {
+                TempResult = 1;
+                foreach (var parameter in parameters)
+                {
+                    TempResult *= parameter;
+                }
+            }
             return TempResult;
         }
 
-        public int Subtraction(int secondParam)
+        public int Division(params int[] parameters)
         {
-            TempResult -= secondParam;
-            return TempResult;
-        }
-
-        public int Multiplication(int firstParam, int secondParam)
-        {
-            TempResult = firstParam * secondParam;
-            return TempResult;
-        }
-
-        public int Multiplication(int secondParam)
-        {
-            TempResult *= secondParam;
-            return TempResult;
-        }
-
-        public int Division(int firstParam, int secondParam)
-        {
-            TempResult = firstParam / secondParam;
-            return TempResult;
-        }
-
-        public int Division(int secondParam)
-        {
-            TempResult /= secondParam;
+            if (parameters.Length == 1)
+            {
+                TempResult /= parameters[0];
+            }
+            else if (parameters.Length >= 2)
+            {
+                TempResult = parameters[0] * parameters[0];     // da in der foreach schleife, der erste parameter ebenfalls dividiert wird, wird hier hoch 2 gerechnet
+                foreach (var parameter in parameters)
+                {
+                    TempResult /= parameter;
+                }
+            }
             return TempResult;
         }
     }
