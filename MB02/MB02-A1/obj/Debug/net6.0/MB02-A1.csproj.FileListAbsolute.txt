@@ -1,0 +1,15 @@
+C:\repos\M320\MB02\MB02-A1\bin\Debug\net6.0\MB02-A1.exe
+C:\repos\M320\MB02\MB02-A1\bin\Debug\net6.0\MB02-A1.deps.json
+C:\repos\M320\MB02\MB02-A1\bin\Debug\net6.0\MB02-A1.runtimeconfig.json
+C:\repos\M320\MB02\MB02-A1\bin\Debug\net6.0\MB02-A1.dll
+C:\repos\M320\MB02\MB02-A1\bin\Debug\net6.0\MB02-A1.pdb
+C:\repos\M320\MB02\MB02-A1\obj\Debug\net6.0\MB02-A1.csproj.AssemblyReference.cache
+C:\repos\M320\MB02\MB02-A1\obj\Debug\net6.0\MB02-A1.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\M320\MB02\MB02-A1\obj\Debug\net6.0\MB02-A1.AssemblyInfoInputs.cache
+C:\repos\M320\MB02\MB02-A1\obj\Debug\net6.0\MB02-A1.AssemblyInfo.cs
+C:\repos\M320\MB02\MB02-A1\obj\Debug\net6.0\MB02-A1.csproj.CoreCompileInputs.cache
+C:\repos\M320\MB02\MB02-A1\obj\Debug\net6.0\MB02-A1.dll
+C:\repos\M320\MB02\MB02-A1\obj\Debug\net6.0\refint\MB02-A1.dll
+C:\repos\M320\MB02\MB02-A1\obj\Debug\net6.0\MB02-A1.pdb
+C:\repos\M320\MB02\MB02-A1\obj\Debug\net6.0\MB02-A1.genruntimeconfig.cache
+C:\repos\M320\MB02\MB02-A1\obj\Debug\net6.0\ref\MB02-A1.dll
