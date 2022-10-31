@@ -1,0 +1,15 @@
+C:\repos\M320\MB03\MB03-A5\bin\Debug\net6.0\MB03-A5.exe
+C:\repos\M320\MB03\MB03-A5\bin\Debug\net6.0\MB03-A5.deps.json
+C:\repos\M320\MB03\MB03-A5\bin\Debug\net6.0\MB03-A5.runtimeconfig.json
+C:\repos\M320\MB03\MB03-A5\bin\Debug\net6.0\MB03-A5.dll
+C:\repos\M320\MB03\MB03-A5\bin\Debug\net6.0\MB03-A5.pdb
+C:\repos\M320\MB03\MB03-A5\obj\Debug\net6.0\MB03-A5.csproj.AssemblyReference.cache
+C:\repos\M320\MB03\MB03-A5\obj\Debug\net6.0\MB03-A5.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\M320\MB03\MB03-A5\obj\Debug\net6.0\MB03-A5.AssemblyInfoInputs.cache
+C:\repos\M320\MB03\MB03-A5\obj\Debug\net6.0\MB03-A5.AssemblyInfo.cs
+C:\repos\M320\MB03\MB03-A5\obj\Debug\net6.0\MB03-A5.csproj.CoreCompileInputs.cache
+C:\repos\M320\MB03\MB03-A5\obj\Debug\net6.0\MB03-A5.dll
+C:\repos\M320\MB03\MB03-A5\obj\Debug\net6.0\refint\MB03-A5.dll
+C:\repos\M320\MB03\MB03-A5\obj\Debug\net6.0\MB03-A5.pdb
+C:\repos\M320\MB03\MB03-A5\obj\Debug\net6.0\MB03-A5.genruntimeconfig.cache
+C:\repos\M320\MB03\MB03-A5\obj\Debug\net6.0\ref\MB03-A5.dll
