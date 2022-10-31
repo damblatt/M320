@@ -8,7 +8,7 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Dambl\\.nuget\\packages\\": {}
+    "C:\\Users\\dambl\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,18 +16,19 @@
       "projectUniqueName": "C:\\repos\\M320\\MB02\\MB02-A3\\MB02-A3-A4.csproj",
       "projectName": "MB02-A3-A4",
       "projectPath": "C:\\repos\\M320\\MB02\\MB02-A3\\MB02-A3-A4.csproj",
-      "packagesPath": "C:\\Users\\Dambl\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\dambl\\.nuget\\packages\\",
       "outputPath": "C:\\repos\\M320\\MB02\\MB02-A3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Dambl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dambl\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
@@ -60,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
