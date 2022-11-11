@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\MB02",
+    "\\MB02\\MB02-A1",
+    "\\MB02\\MB02-A2",
+    "\\MB02\\MB02-A3"
   ],
-  "SelectedNode": "\\MB03.sln",
+  "SelectedNode": "\\MB02\\MB02.sln",
   "PreviewInSolutionExplorer": false
 }

@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\M320\\MB02\\MB02-A2\\MB02-A2.csproj",
-      "projectName": "MB02-A2",
-      "projectPath": "C:\\repos\\M320\\MB02\\MB02-A2\\MB02-A2.csproj",
+      "projectUniqueName": "C:\\repos\\M320\\MB02\\MB02-A2\\MB02_A2.csproj",
+      "projectName": "MB02_A2",
+      "projectPath": "C:\\repos\\M320\\MB02\\MB02-A2\\MB02_A2.csproj",
       "packagesPath": "C:\\Users\\dambl\\.nuget\\packages\\",
       "outputPath": "C:\\repos\\M320\\MB02\\MB02-A2\\obj\\",
       "projectStyle": "PackageReference",
