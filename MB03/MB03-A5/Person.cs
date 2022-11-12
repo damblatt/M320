@@ -41,7 +41,7 @@ namespace MB03_A5
         }
 
 
-        // class
+        // method
         public int RelieveRageWithSleep(int hoursOfSleep)
         {
             PreviousRage = CurrentRage;
