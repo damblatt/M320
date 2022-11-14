@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32811.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MB04-UnidirektionaleAssoziation", "MB04-Assoziationen\MB04-UnidirektionaleAssoziation.csproj", "{7813E662-17BA-4CB5-AE51-5C7700963BB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MB04-UnidirektionaleAssoziation", "MB04-Assoziationen\MB04-UnidirektionaleAssoziation.csproj", "{7813E662-17BA-4CB5-AE51-5C7700963BB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MB04-BidirektionaleAssoziation", "MB04-Bidirektionale_Assoziation\MB04-BidirektionaleAssoziation.csproj", "{5358D495-B486-490D-A3E0-C88906597444}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MB04-BidirektionaleAssoziation", "MB04-Bidirektionale_Assoziation\MB04-BidirektionaleAssoziation.csproj", "{5358D495-B486-490D-A3E0-C88906597444}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MB04-HundUndLaus", "MB04-HundUndLaus\MB04-HundUndLaus.csproj", "{AC7EB7AD-9C39-469C-9E8D-07FBD3DCE05A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MB04-HundUndLaus", "MB04-HundUndLaus\MB04-HundUndLaus.csproj", "{AC7EB7AD-9C39-469C-9E8D-07FBD3DCE05A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MB04-KundeUndBuch", "MB04-KundeUndBuch\MB04-KundeUndBuch.csproj", "{A122069F-BFA7-4C08-95FE-864A869D612F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MB04-KundeUndBuch", "MB04-KundeUndBuch\MB04-KundeUndBuch.csproj", "{A122069F-BFA7-4C08-95FE-864A869D612F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MB04-NotebookUndFestplatte", "MB04-NotebookUndFestplatte\MB04-NotebookUndFestplatte.csproj", "{90417DA4-D35C-4064-BB0D-9FE9369B5AE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MB04-NotebookUndFestplatte", "MB04-NotebookUndFestplatte\MB04-NotebookUndFestplatte.csproj", "{90417DA4-D35C-4064-BB0D-9FE9369B5AE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MB04-KundeUndKonto", "MB04-KundeUndKonto\MB04-KundeUndKonto.csproj", "{EF193DEF-C187-4111-8346-F9879FCF3D2F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{90417DA4-D35C-4064-BB0D-9FE9369B5AE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90417DA4-D35C-4064-BB0D-9FE9369B5AE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90417DA4-D35C-4064-BB0D-9FE9369B5AE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF193DEF-C187-4111-8346-F9879FCF3D2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF193DEF-C187-4111-8346-F9879FCF3D2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF193DEF-C187-4111-8346-F9879FCF3D2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF193DEF-C187-4111-8346-F9879FCF3D2F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
