@@ -9,10 +9,6 @@
             var laus1 = new Laus(ben);
             var laus2 = new Laus(ben);
             var laus3 = new Laus(ben);
-
-            ben.Laeuse.Add(laus1);
-            ben.Laeuse.Add(laus2);
-            ben.Laeuse.Add(laus3);
         }
     }
 
@@ -25,9 +21,11 @@
     {
         public Hund Hund { get; set; }
 
+        // Multiplizitäten mit 1 oder mehreren werden via Konstruktoren erzwungen
         public Laus(Hund hund)
         {
-            Hund = hund;
+            this.Hund = hund;
+            this.Hund.Laeuse.Add(this);
         }
     }
 }

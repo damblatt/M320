@@ -1,0 +1,15 @@
+C:\repos\M320\MB04\MB04-NotebookUndFestplatte\bin\Debug\net6.0\MB04-NotebookUndFestplatte.exe
+C:\repos\M320\MB04\MB04-NotebookUndFestplatte\bin\Debug\net6.0\MB04-NotebookUndFestplatte.deps.json
+C:\repos\M320\MB04\MB04-NotebookUndFestplatte\bin\Debug\net6.0\MB04-NotebookUndFestplatte.runtimeconfig.json
+C:\repos\M320\MB04\MB04-NotebookUndFestplatte\bin\Debug\net6.0\MB04-NotebookUndFestplatte.dll
+C:\repos\M320\MB04\MB04-NotebookUndFestplatte\bin\Debug\net6.0\MB04-NotebookUndFestplatte.pdb
+C:\repos\M320\MB04\MB04-NotebookUndFestplatte\obj\Debug\net6.0\MB04-NotebookUndFestplatte.csproj.AssemblyReference.cache
+C:\repos\M320\MB04\MB04-NotebookUndFestplatte\obj\Debug\net6.0\MB04-NotebookUndFestplatte.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\M320\MB04\MB04-NotebookUndFestplatte\obj\Debug\net6.0\MB04-NotebookUndFestplatte.AssemblyInfoInputs.cache
+C:\repos\M320\MB04\MB04-NotebookUndFestplatte\obj\Debug\net6.0\MB04-NotebookUndFestplatte.AssemblyInfo.cs
+C:\repos\M320\MB04\MB04-NotebookUndFestplatte\obj\Debug\net6.0\MB04-NotebookUndFestplatte.csproj.CoreCompileInputs.cache
+C:\repos\M320\MB04\MB04-NotebookUndFestplatte\obj\Debug\net6.0\MB04-NotebookUndFestplatte.dll
+C:\repos\M320\MB04\MB04-NotebookUndFestplatte\obj\Debug\net6.0\refint\MB04-NotebookUndFestplatte.dll
+C:\repos\M320\MB04\MB04-NotebookUndFestplatte\obj\Debug\net6.0\MB04-NotebookUndFestplatte.pdb
+C:\repos\M320\MB04\MB04-NotebookUndFestplatte\obj\Debug\net6.0\MB04-NotebookUndFestplatte.genruntimeconfig.cache
+C:\repos\M320\MB04\MB04-NotebookUndFestplatte\obj\Debug\net6.0\ref\MB04-NotebookUndFestplatte.dll
