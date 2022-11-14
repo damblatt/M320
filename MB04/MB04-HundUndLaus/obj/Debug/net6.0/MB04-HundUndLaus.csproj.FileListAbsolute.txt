@@ -1,0 +1,15 @@
+C:\repos\M320\MB04\MB04-HundUndLaus\bin\Debug\net6.0\MB04-HundUndLaus.exe
+C:\repos\M320\MB04\MB04-HundUndLaus\bin\Debug\net6.0\MB04-HundUndLaus.deps.json
+C:\repos\M320\MB04\MB04-HundUndLaus\bin\Debug\net6.0\MB04-HundUndLaus.runtimeconfig.json
+C:\repos\M320\MB04\MB04-HundUndLaus\bin\Debug\net6.0\MB04-HundUndLaus.dll
+C:\repos\M320\MB04\MB04-HundUndLaus\bin\Debug\net6.0\MB04-HundUndLaus.pdb
+C:\repos\M320\MB04\MB04-HundUndLaus\obj\Debug\net6.0\MB04-HundUndLaus.csproj.AssemblyReference.cache
+C:\repos\M320\MB04\MB04-HundUndLaus\obj\Debug\net6.0\MB04-HundUndLaus.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\M320\MB04\MB04-HundUndLaus\obj\Debug\net6.0\MB04-HundUndLaus.AssemblyInfoInputs.cache
+C:\repos\M320\MB04\MB04-HundUndLaus\obj\Debug\net6.0\MB04-HundUndLaus.AssemblyInfo.cs
+C:\repos\M320\MB04\MB04-HundUndLaus\obj\Debug\net6.0\MB04-HundUndLaus.csproj.CoreCompileInputs.cache
+C:\repos\M320\MB04\MB04-HundUndLaus\obj\Debug\net6.0\MB04-HundUndLaus.dll
+C:\repos\M320\MB04\MB04-HundUndLaus\obj\Debug\net6.0\refint\MB04-HundUndLaus.dll
+C:\repos\M320\MB04\MB04-HundUndLaus\obj\Debug\net6.0\MB04-HundUndLaus.pdb
+C:\repos\M320\MB04\MB04-HundUndLaus\obj\Debug\net6.0\MB04-HundUndLaus.genruntimeconfig.cache
+C:\repos\M320\MB04\MB04-HundUndLaus\obj\Debug\net6.0\ref\MB04-HundUndLaus.dll
