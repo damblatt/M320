@@ -8,27 +8,26 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\dambl\\.nuget\\packages\\": {}
+    "C:\\Users\\Dambl\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\M320\\MB04\\MB04-KundeUndBuch\\MB04-KundeUndBuch.csproj",
+      "projectUniqueName": "C:\\Users\\Dambl\\Source\\Repos\\damblatt\\M320\\MB04\\MB04-KundeUndBuch\\MB04-KundeUndBuch.csproj",
       "projectName": "MB04-KundeUndBuch",
-      "projectPath": "C:\\repos\\M320\\MB04\\MB04-KundeUndBuch\\MB04-KundeUndBuch.csproj",
-      "packagesPath": "C:\\Users\\dambl\\.nuget\\packages\\",
-      "outputPath": "C:\\repos\\M320\\MB04\\MB04-KundeUndBuch\\obj\\",
+      "projectPath": "C:\\Users\\Dambl\\Source\\Repos\\damblatt\\M320\\MB04\\MB04-KundeUndBuch\\MB04-KundeUndBuch.csproj",
+      "packagesPath": "C:\\Users\\Dambl\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dambl\\Source\\Repos\\damblatt\\M320\\MB04\\MB04-KundeUndBuch\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\dambl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Dambl\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
       },
       "frameworks": {
         "net6.0": {
@@ -61,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
