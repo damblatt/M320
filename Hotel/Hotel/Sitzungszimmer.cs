@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Hotel
+{
+    internal class Sitzungszimmer
+    {
+        public Hotel Hotel { get; set; }
+        public Sitzungszimmer(Hotel hotel)
+        {
+            if (hotel.Zimmer.Count < 3)
+            {
+                hotel.Sitzungszimmer.Add(this);
+                Hotel = hotel;
+            }
+            else
+            {
+                Console.WriteLine("Das Hotel hat bereits die maximale Anzahl an Sitzungszimmern erreicht.");
+            }
+        }
+    }
+}
