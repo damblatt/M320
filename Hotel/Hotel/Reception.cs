@@ -8,7 +8,11 @@ namespace Hotel
 {
     internal class Reception
     {
+        private int telefonNummer;
+        private string emailAdresse;
+
         public Hotel Hotel { get; set; }
+
         public Reception(Hotel hotel)
         {
             if (hotel.Reception == null)

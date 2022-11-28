@@ -8,6 +8,11 @@ namespace Hotel
 {
     internal class Bett
     {
+        public int Breite { get; set; }
 
+        public Bett(Zimmer zimmer)
+        {
+            zimmer.BettHinzufügen(this);
+        }
     }
 }
