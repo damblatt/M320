@@ -1,27 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dambl\\Source\\Repos\\damblatt\\M320\\MB04\\MB04-Bidirektionale_Assoziation\\MB04-BidirektionaleAssoziation.csproj": {}
+    "C:\\repos\\M320\\MB04\\MB04-Bidirektionale_Assoziation\\MB04-BidirektionaleAssoziation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dambl\\Source\\Repos\\damblatt\\M320\\MB04\\MB04-Bidirektionale_Assoziation\\MB04-BidirektionaleAssoziation.csproj": {
+    "C:\\repos\\M320\\MB04\\MB04-Bidirektionale_Assoziation\\MB04-BidirektionaleAssoziation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dambl\\Source\\Repos\\damblatt\\M320\\MB04\\MB04-Bidirektionale_Assoziation\\MB04-BidirektionaleAssoziation.csproj",
+        "projectUniqueName": "C:\\repos\\M320\\MB04\\MB04-Bidirektionale_Assoziation\\MB04-BidirektionaleAssoziation.csproj",
         "projectName": "MB04-BidirektionaleAssoziation",
-        "projectPath": "C:\\Users\\Dambl\\Source\\Repos\\damblatt\\M320\\MB04\\MB04-Bidirektionale_Assoziation\\MB04-BidirektionaleAssoziation.csproj",
-        "packagesPath": "C:\\Users\\Dambl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dambl\\Source\\Repos\\damblatt\\M320\\MB04\\MB04-Bidirektionale_Assoziation\\obj\\",
+        "projectPath": "C:\\repos\\M320\\MB04\\MB04-Bidirektionale_Assoziation\\MB04-BidirektionaleAssoziation.csproj",
+        "packagesPath": "C:\\Users\\dambl\\.nuget\\packages\\",
+        "outputPath": "C:\\repos\\M320\\MB04\\MB04-Bidirektionale_Assoziation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dambl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dambl\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -54,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

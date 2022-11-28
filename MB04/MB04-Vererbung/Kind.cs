@@ -17,11 +17,12 @@ namespace MB04_Vererbung
 
         public override void Trage()
         {
+            Console.WriteLine("Ich als Kind werde getragen.");
         }
 
         public override void Esse()
         {
-            base.Esse();
+            Console.WriteLine("Ich als Kind esse von Hand.");
         }
     }
 }

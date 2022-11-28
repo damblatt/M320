@@ -17,11 +17,12 @@ namespace MB04_Vererbung
 
         public void LagereEin()
         {
-
+            Console.WriteLine("Ich als Lagerist lagere ein.");
         }
 
         public override void Trage()
         {
+            Console.WriteLine("Ich als Lagerist trage die Ware herum.");
         }
     }
 }

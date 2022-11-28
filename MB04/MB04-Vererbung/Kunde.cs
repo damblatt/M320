@@ -17,11 +17,12 @@ namespace MB04_Vererbung
 
         public void Kaufe()
         {
-
+            Console.WriteLine("Ich als Kunde kaufe bei Lidl.");
         }
 
         public override void Trage()
         {
+            Console.WriteLine("Ich als Kunde trage den Einkauf nach Hause.");
         }
     }
 }

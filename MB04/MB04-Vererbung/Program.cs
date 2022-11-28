@@ -4,14 +4,23 @@
     {
         static void Main(string[] args)
         {
-            var kunde1 = new Kunde(1)
+            var list = new List<Person>();
+
+            var kunde1 = new Kunde(1);
+            var lagerist1 = new Lagerist(2);
+            var kind1 = new Kind(3);
+
+            list.Add(kunde1);
+            list.Add(lagerist1);
+            list.Add(kind1);
+
+            foreach (var person in list)
             {
-                Umsatz = 100
-            };
-            var lagerist1 = new Lagerist(2)
-            {
-                Groesse = 180
-            };
+                person.Trage();
+                person.Esse();
+            }
+
+            // Die Funktion einlagern kann nicht aufgerufen werden, da Sie nur in der Subklasse 'Lagerist' und nicht in der Klasse 'Person' definiert ist.
         }
     }
 }

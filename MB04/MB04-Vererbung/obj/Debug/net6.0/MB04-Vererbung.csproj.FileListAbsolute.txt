@@ -1,0 +1,15 @@
+C:\repos\M320\MB04\MB04-Vererbung\bin\Debug\net6.0\MB04-Vererbung.exe
+C:\repos\M320\MB04\MB04-Vererbung\bin\Debug\net6.0\MB04-Vererbung.deps.json
+C:\repos\M320\MB04\MB04-Vererbung\bin\Debug\net6.0\MB04-Vererbung.runtimeconfig.json
+C:\repos\M320\MB04\MB04-Vererbung\bin\Debug\net6.0\MB04-Vererbung.dll
+C:\repos\M320\MB04\MB04-Vererbung\bin\Debug\net6.0\MB04-Vererbung.pdb
+C:\repos\M320\MB04\MB04-Vererbung\obj\Debug\net6.0\MB04-Vererbung.csproj.AssemblyReference.cache
+C:\repos\M320\MB04\MB04-Vererbung\obj\Debug\net6.0\MB04-Vererbung.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\M320\MB04\MB04-Vererbung\obj\Debug\net6.0\MB04-Vererbung.AssemblyInfoInputs.cache
+C:\repos\M320\MB04\MB04-Vererbung\obj\Debug\net6.0\MB04-Vererbung.AssemblyInfo.cs
+C:\repos\M320\MB04\MB04-Vererbung\obj\Debug\net6.0\MB04-Vererbung.csproj.CoreCompileInputs.cache
+C:\repos\M320\MB04\MB04-Vererbung\obj\Debug\net6.0\MB04-Vererbung.dll
+C:\repos\M320\MB04\MB04-Vererbung\obj\Debug\net6.0\refint\MB04-Vererbung.dll
+C:\repos\M320\MB04\MB04-Vererbung\obj\Debug\net6.0\MB04-Vererbung.pdb
+C:\repos\M320\MB04\MB04-Vererbung\obj\Debug\net6.0\MB04-Vererbung.genruntimeconfig.cache
+C:\repos\M320\MB04\MB04-Vererbung\obj\Debug\net6.0\ref\MB04-Vererbung.dll

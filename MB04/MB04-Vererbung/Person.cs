@@ -12,8 +12,7 @@ namespace MB04_Vererbung
 
         public string Name { get; set; }
         public string Vorname { get; set; }
-
-        protected readonly int identNr;
+        protected int identNr { get; }
 
         public Person(int identNr)
         {
@@ -22,7 +21,7 @@ namespace MB04_Vererbung
 
         public virtual void Esse()
         {
-
+            Console.WriteLine("Ich als Person esse mit Messer und Gabel.");
         }
 
         public abstract void Trage();
